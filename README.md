@@ -18,7 +18,7 @@ Provide actionable insights through interactive visuals.
 Yearly & Monthly Filters:
 Explore data by selecting specific years or months.
 
-🗺District & Mandal Drill-Down:
+District & Mandal Drill-Down:
 View weather details at both the district and mandal levels.
 
 Temperature Trends:
